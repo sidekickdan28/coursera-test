@@ -157,15 +157,18 @@ h1 {
 
 #chicken{
 	background-color: #c6908e;
+	width: 120px;
 }
 
 #beef{
 	background-color: #ab453e;
 	color: #ffffff;
+	width: 130px;
 }
 
 #sushi{
 	background-color: #decb94;
+	width: 120px;
 }
 
 p{
